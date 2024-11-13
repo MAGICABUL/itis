@@ -1,4 +1,4 @@
-alunno-*.json
+**/alunno*.json
 **/keys/*
 # Local .terraform directories
 **/.terraform/*
