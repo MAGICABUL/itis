@@ -61,4 +61,3 @@ resource "google_project_iam_member" "user_role" {
     google_service_account.alunno_sa
   ]
 }
-
